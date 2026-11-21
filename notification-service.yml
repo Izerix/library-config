@@ -1,0 +1,6 @@
+server:
+  port: 8083
+
+notification:
+  reminder-days-before: 3
+  enabled: true

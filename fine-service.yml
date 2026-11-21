@@ -1,0 +1,6 @@
+server:
+  port: 8085
+
+fine:
+  daily-rate: 1.00
+  max-amount: 100.00

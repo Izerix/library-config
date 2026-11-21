@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+borrowing:
+  max-books: 5
+  loan-period-days: 30

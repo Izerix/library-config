@@ -1,0 +1,6 @@
+server:
+  port: 8084
+
+user:
+  card-validity-days: 365
+  minimum-age: 13
