@@ -2,5 +2,5 @@ server:
   port: 8081
 
 catalog:
-  max-search-results: 250
+  max-search-results: 300
   page-size: 20
